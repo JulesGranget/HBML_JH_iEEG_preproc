@@ -14,7 +14,7 @@ addpath('/home/david/Documents/RRET/BU')
 addpath '/home/david/Documents/RRET/latestscripts_JA'
 addpath('/home/david/Documents/RRET/samruddhi_scripts')
 
-%% -----------------  SELECT PATIENT -----------------
+%% -----------------  SELECT PATIENT ---------------
 pat = 'LH018'; %NS215, %NS213; %NS131_02; %'NS211';%'LH013';%'NS200';%'NS057_3';%'LH013';%'NS189';%'LH014_3';%'NS191';%'LH014_3'; 'NS057_3'
 run 'LIST_filenames_RRET.m';
 
